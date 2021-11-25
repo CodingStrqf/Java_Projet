@@ -1,0 +1,22 @@
+Combat style pokémon
+
+Vie, classes 
+
+Personnages avec 2 classes :
+	- Empoisonneur 
+	- Guerrier 
+	- Healer 
+	- Assassin
+	- 
+choix entre 4 possibilité attaques
+
+Possibilité de lvl up avec barre xp 
+
+Perso adverse attaque random
+
+public hero(ps, classe1,classe2){
+	pseudo = ps
+	classe1 =  classe1
+	classe2 = classe2
+}
+

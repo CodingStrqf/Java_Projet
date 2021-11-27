@@ -18,29 +18,4 @@ public abstract class Personnage {
         this.description = description;
     }
 
-    public String getPseudo() {
-        return pseudo;
-    }
-
-    public int getVie() {
-        return vie;
-    }
-
-    public int getDef() {
-        return def;
-    }
-
-    public int getAttaque() {
-        return attaque;
-    }
-
-    public String getType() {
-        return type;
-    }
-
-    public String getDescription() {
-        return description;
-    }
-
-
 }
